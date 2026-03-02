@@ -1,1 +1,1 @@
-# audio_decrypt
+音频解密（完整功能）为publish版本，可直接使用
